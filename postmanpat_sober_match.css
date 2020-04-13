@@ -20,11 +20,11 @@
  fill:#b65022
 }
 .checkers__player-B-with-border___1lxwj {
- stroke:#e8eaff;
+ stroke:#dadad9;
  stroke-width:2px
 }
 .labeledChecker__textPlayerAChecker___dAkm9 {
- fill:#2e2cad
+ fill:#0f0e0e
 }
 .labeledChecker__textPlayerAChecker___dAkm9,
 .labeledChecker__textPlayerBChecker___1_dAk {
@@ -40,7 +40,7 @@
  pointer-events:none
 }
 .labeledChecker__textPlayerBChecker___1_dAk {
- fill:#daddf5
+ fill:#0f0e0e
 }
 .pipCountComponent__text___LzerR {
  -webkit-user-select:none;
@@ -50,7 +50,7 @@
  font-family:Roboto Condensed;
  font-size:1.45rem;
  font-weight:700;
- fill:#e8eaff;
+ fill:#dadad9;
  cursor:default;
  text-anchor:middle
 }
@@ -99,7 +99,7 @@
  font-family:Roboto Condensed;
  font-size:1.5rem;
  font-weight:700;
- fill:#e8eaff;
+ fill:#dadad9;
  cursor:default;
  text-anchor:middle;
  cursor:inherit
@@ -133,31 +133,31 @@
  stop-opacity:1
 }
 .singleDieComponent__white-stop1___3tzOX {
- stop-color:#daddf5;
+ stop-color:#dadad9;
  stop-opacity:.5
 }
 .singleDieComponent__white-stop2___1pVCA {
- stop-color:#daddf5;
+ stop-color:#dadad9;
  stop-opacity:1
 }
 .singleDieComponent__black-unused___3fe0T {
- fill:#2e2cad
+ fill:#0f0e0e
 }
 .singleDieComponent__white-unused___25AC9 {
- fill:#daddf5
+ fill:#dadad9
 }
 .singleDieComponent__black-half-used___3Y3Zd {
  fill:url("#black-half-used")
 }
 .singleDieComponent__black-full-used___fhp9C {
- fill:#2e2cad;
+ fill:#0f0e0e;
  fill-opacity:.5
 }
 .singleDieComponent__white-half-used___2k61o {
  fill:url("#white-half-used")
 }
 .singleDieComponent__white-full-used___1ME2n {
- fill:#daddf5;
+ fill:#dadad9;
  fill-opacity:.5
 }
 .doublingCube__rectangle___3oBeJ {
@@ -266,7 +266,7 @@
  font-family:Roboto Condensed;
  font-size:1.5rem;
  font-weight:400;
- fill:#3f7be3;
+ fill:#dadad9;
  cursor:default;
  text-anchor:middle;
  letter-spacing:-.5px
@@ -449,7 +449,7 @@
  text-anchor:middle
 }
 .switchSetting__separator___34-YT {
- stroke:#12194a;
+ stroke:#0f0e0e;
  stroke-width:1.5px
 }
 .switchSetting__label___3pMor,
@@ -457,7 +457,7 @@
  font-family:Roboto Condensed;
  display:block;
  font-size:1.5rem;
- fill:#e8eaff
+ fill:#0f0e0e
 }
 .switchSetting__switch___EbcgL {
  cursor:pointer;
@@ -508,7 +508,7 @@
  font-family:Roboto Condensed;
  font-size:1.5rem;
  font-weight:700;
- fill:#e8eaff;
+ fill:#dadad9;
  cursor:default;
  text-anchor:middle
 }
