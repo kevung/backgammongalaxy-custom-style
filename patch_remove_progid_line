@@ -1,0 +1,6 @@
+325,329d324
+< .table__unique-column___2PZpU {
+<  background-image:-webkit-gradient(linear,left top,left bottom,color-stop(30%,#f2f5ff),to(#e6e8f7));
+<  background-image:linear-gradient(180deg,#f2f5ff 30%,#e6e8f7);
+<  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFF2F5FF",endColorstr="#FFE6E8F7",GradientType=0)
+< }
