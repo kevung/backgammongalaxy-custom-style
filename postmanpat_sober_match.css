@@ -130,39 +130,39 @@
  fill:#2b44ff
 }
 .singleDieComponent__black-stop1___3iYn3 {
- stop-color:#2e2cad;
+ stop-color:#0e0f0f;
  stop-opacity:.5
 }
 .singleDieComponent__black-stop2___V8n5L {
- stop-color:#2e2cad;
+ stop-color:#0e0f0f;
  stop-opacity:1
 }
 .singleDieComponent__white-stop1___3tzOX {
- stop-color:#dadad9;
+ stop-color:#cfb148;
  stop-opacity:.5
 }
 .singleDieComponent__white-stop2___1pVCA {
- stop-color:#dadad9;
+ stop-color:#cfb148;
  stop-opacity:1
 }
 .singleDieComponent__black-unused___3fe0T {
- fill:#0f0e0e
+ fill:#0e0f0f
 }
 .singleDieComponent__white-unused___25AC9 {
- fill:#dadad9
+ fill:#cfb148
 }
 .singleDieComponent__black-half-used___3Y3Zd {
  fill:url("#black-half-used")
 }
 .singleDieComponent__black-full-used___fhp9C {
- fill:#0f0e0e;
+ fill:#0e0f0f;
  fill-opacity:.5
 }
 .singleDieComponent__white-half-used___2k61o {
  fill:url("#white-half-used")
 }
 .singleDieComponent__white-full-used___1ME2n {
- fill:#dadad9;
+ fill:#cfb148;
  fill-opacity:.5
 }
 .doublingCube__rectangle___3oBeJ {
