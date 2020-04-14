@@ -7,6 +7,8 @@ ${TRG}: ${SRC}
 	cat ${SRC} > ${TRG}
 	sed -i '/static/d' ${TRG}
 	sed -i '/url/d' ${TRG}
+	sed -i '1 i\@-moz-document domain(www.backgammongalaxy.com) {' ${TRG}
+	echo "}" >> ${TRG}
 
 patch: 
 	patch postmanpat_sober_analyse.css <  patch_remove_progid_line
