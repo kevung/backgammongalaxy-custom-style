@@ -14,4 +14,4 @@
 
 ## Feedbacks
 
-Do not hesitate to give your feedbacks in the [issue section](https://github.com/kevung/backgammongalaxy-custom-style/issues/new).
+Do not hesitate to give your feedbacks in the [issue section](https://github.com/kevung/backgammongalaxy-custom-style/issues/new). [You need to log in with a Github account.]
