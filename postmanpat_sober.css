@@ -9,11 +9,12 @@
 @preprocessor default
 ==/UserStyle== */
 
+@-moz-document domain("backgammongalaxy.com") {
+
 /* Custom BackgammonGalaxy Theme */
 /* Design based on the original one */
 /* Author: Postman Pat */
 
-@-moz-document domain("backgammongalaxy.com") {
   /* MATCH MODE */
 
   .point__evenPoint___2tLUb {
